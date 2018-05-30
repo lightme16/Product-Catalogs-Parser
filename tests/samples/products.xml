@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DataFeeds>
+
+    <item_data>
+        <item_basic_data>
+            <item_unique_id>B01J90MOVY</item_unique_id>
+            <parent_asin>B01M4NU4OM</parent_asin>
+            <item_ean_list>
+                <item_ean_list_element>0841667121703</item_ean_list_element>
+            </item_ean_list>
+            <item_title>item_title1
+            </item_title>
+            <item_long_desc>item_long_desc1
+            </item_long_desc>
+            <book_size_description/>
+            <item_page_url>
+                http://www.amazon.com/dp/B01J90MOVY/ref=asc_df_B01J90MOVY5386849?tag=INSERT_TAG_HERE&amp;creative=395261&amp;creativeASIN=B01J90MOVY&amp;linkCode=asn
+            </item_page_url>
+            <amzn_page_url>
+                http://www.amazon.com/dp/B01J90MOVY/ref=asc_df_B01J90MOVY5386849/?tag=INSERT_TAG_HERE&amp;creative=394997&amp;creativeASIN=B01J90MOVY&amp;linkCode=df0
+            </amzn_page_url>
+            <fm_page_url>
+                http://www.amazon.com/dp/B01J90MOVY/ref=asc_df_B01J90MOVY5386849?smid=ATVPDKIKX0DER&amp;tag=INSERT_TAG_HERE&amp;linkCode=df0&amp;creative=395093&amp;creativeASIN=B01J90MOVY
+            </fm_page_url>
+            <offer_page_url>
+                http://www.amazon.com/gp/offer-listing/B01J90MOVY/ref=asc_df_B01J90MOVY5386849?ie=UTF8&amp;condition=new&amp;tag=INSERT_TAG_HERE&amp;creative=395165&amp;creativeASIN=B01J90MOVY&amp;linkCode=df2
+            </offer_page_url>
+            <offer_used_url>
+                http://www.amazon.com/gp/offer-listing/B01J90MOVY/ref=asc_df_B01J90MOVY5386849?ie=UTF8&amp;condition=used&amp;tag=INSERT_TAG_HERE&amp;creative=395213&amp;creativeASIN=B01J90MOVY&amp;linkCode=df2
+            </offer_used_url>
+            <tp_refurbished_url/>
+            <tp_collect_url/>
+            <tp_fba_url/>
+            <item_image_url_small>
+                https://images-na.ssl-images-amazon.com/images/I/41uPelrYllL._SL75_.jpg
+            </item_image_url_small>
+            <item_image_url>
+                https://images-na.ssl-images-amazon.com/images/I/41uPelrYllL._SL160_.jpg
+            </item_image_url>
+            <item_image_url_large>
+                https://images-na.ssl-images-amazon.com/images/I/41uPelrYllL.jpg
+            </item_image_url_large>
+            <item_image_url_hires>
+                https://images-na.ssl-images-amazon.com/images/I/61Clhp7MsML.jpg
+            </item_image_url_hires>
+            <item_salesrank>12</item_salesrank>
+            <list_price>99.99</list_price>
+            <item_category>Amazon Tablets</item_category>
+            <item_is_fba>true</item_is_fba>
+            <item_price>99.99</item_price>
+            <item_inventory>Usually ships in 24 hours</item_inventory>
+            <item_shipping_charge>0.00</item_shipping_charge>
+            <item_condition>New</item_condition>
+            <item_seller>Amazon.com</item_seller>
+            <item_merchant_id>ATVPDKIKX0DER</item_merchant_id>
+            <item_is_eligible_for_prime>1</item_is_eligible_for_prime>
+            <item_sales_restriction>Check Site.</item_sales_restriction>
+            <item_points/>
+            <item_min_hours>0</item_min_hours>
+            <item_max_hours>0</item_max_hours>
+            <amzn_is_fba>true</amzn_is_fba>
+            <amzn_price>99.99</amzn_price>
+            <amzn_inventory>Usually ships in 24 hours</amzn_inventory>
+            <amzn_shipping_charge>0.00</amzn_shipping_charge>
+            <amzn_condition>New</amzn_condition>
+            <amzn_seller>Amazon.com</amzn_seller>
+            <amzn_merchant_id>ATVPDKIKX0DER</amzn_merchant_id>
+            <amzn_is_eligible_for_prime>1</amzn_is_eligible_for_prime>
+            <amzn_sales_restriction>Check Site.</amzn_sales_restriction>
+            <amzn_points/>
+            <amzn_min_hours>0</amzn_min_hours>
+            <amzn_max_hours>0</amzn_max_hours>
+            <fm_is_fba>true</fm_is_fba>
+            <fm_price>99.99</fm_price>
+            <fm_inventory>Usually ships in 24 hours</fm_inventory>
+            <fm_shipping_charge>0.00</fm_shipping_charge>
+            <fm_condition>New</fm_condition>
+            <fm_seller>Amazon.com</fm_seller>
+            <fm_merchant_id>ATVPDKIKX0DER</fm_merchant_id>
+            <fm_is_eligible_for_prime>1</fm_is_eligible_for_prime>
+            <fm_sales_restriction>Check Site.</fm_sales_restriction>
+            <fm_points/>
+            <fm_min_hours>0</fm_min_hours>
+            <fm_max_hours>0</fm_max_hours>
+            <item_sku/>
+            <item_platform/>
+            <item_is_adult_product/>
+            <prototype_partner_product_id/>
+            <amzn_ppu>99.99 / Count</amzn_ppu>
+            <tp_new_ppu/>
+            <tp_used_ppu/>
+            <tp_refurbished_ppu/>
+            <tp_collect_ppu/>
+            <item_energy_efficiency_class/>
+            <item_abstract>Buy Fire 7 Kids Edition Tablet, 7'' Display, 16 GB,
+                Pink Kid-Proof Case from Amazon.com!
+            </item_abstract>
+            <weee_tax>0</weee_tax>
+            <cpc/>
+            <dcz/>
+            <wxjz/>
+            <xcyg/>
+        </item_basic_data>
+        <merch_cat_list>
+            <merch_cat_item>
+                <merch_cat_name>1232597011</merch_cat_name>
+                <merch_cat_path>Electronics/Categories/Computers &amp;
+                    Accessories/Computers &amp; Tablets/Tablets
+                </merch_cat_path>
+            </merch_cat_item>
+            <merch_cat_item>
+                <merch_cat_name>6669703011</merch_cat_name>
+                <merch_cat_path>Amazon Devices &amp;
+                    Accessories/Categories/Amazon Devices/Fire Tablets
+                </merch_cat_path>
+            </merch_cat_item>
+        </merch_cat_list>
+        <item_brand>Amazon</item_brand>
+        <item_mpn_list>
+            <item_mpn_list_element>53-005772</item_mpn_list_element>
+            <item_mpn_list_element>SR043KL</item_mpn_list_element>
+        </item_mpn_list>
+        <item_upc_list>
+            <item_upc_list_element>841667121703</item_upc_list_element>
+        </item_upc_list>
+        <item_features>Up to $129 in savings on Fire 7 tablet, 1 year of Amazon
+            FreeTime Unlimited, and a Kid-Proof Case, plus a 2-year worry-free
+            guarantee,Not a toy, a full-featured Fire 7 tablet with a 7" IPS
+            display, 16 GB internal storage, and up to 8 hours of mixed-use
+            battery life. Add a microSD card for up to 256 GB of expandable
+            storage,2-year worry-free guarantee: if they break it, return it and
+            we'll replace it for free. No questions asked.,One year of FreeTime
+            Unlimited gives your kids access to 15,000 popular apps and games,
+            videos, books, and educational content from PBS Kids, Nickelodeon,
+            Disney, and more,Add even more content to your child's profile in
+            FreeTime to give them selected access to apps in your personal
+            library, such as Netflix, YouTube, and Minecraft,Best-in-class
+            parental controls allow you to manage usage limits, content access,
+            and educational goals,Amazon Parent Dashboard with Discussion Cards
+            enables parents to discover the titles their kids enjoy and connect
+            with them through rich conversations about these titles.
+        </item_features>
+        <item_part_number>53-005772</item_part_number>
+        <item_package_quantity>1</item_package_quantity>
+    </item_data>
+
+    <item_data>
+        <item_basic_data>
+            <item_unique_id>B071Z9Y29D</item_unique_id>
+            <parent_asin>B073GHYH23</parent_asin>
+            <item_ean_list/>
+            <item_title>item_title2
+            </item_title>
+            <item_long_desc>item_long_desc2
+            </item_long_desc>
+            <book_size_description/>
+            <item_page_url>
+                http://www.amazon.com/dp/B071Z9Y29D/ref=asc_df_B071Z9Y29D5386849?tag=INSERT_TAG_HERE&amp;creative=395261&amp;creativeASIN=B071Z9Y29D&amp;linkCode=asn
+            </item_page_url>
+            <amzn_page_url>
+                http://www.amazon.com/dp/B071Z9Y29D/ref=asc_df_B071Z9Y29D5386849/?tag=INSERT_TAG_HERE&amp;creative=394997&amp;creativeASIN=B071Z9Y29D&amp;linkCode=df0
+            </amzn_page_url>
+            <fm_page_url>
+                http://www.amazon.com/dp/B071Z9Y29D/ref=asc_df_B071Z9Y29D5386849?smid=ATVPDKIKX0DER&amp;tag=INSERT_TAG_HERE&amp;linkCode=df0&amp;creative=395093&amp;creativeASIN=B071Z9Y29D
+            </fm_page_url>
+            <offer_page_url>
+                http://www.amazon.com/gp/offer-listing/B071Z9Y29D/ref=asc_df_B071Z9Y29D5386849?ie=UTF8&amp;condition=new&amp;tag=INSERT_TAG_HERE&amp;creative=395165&amp;creativeASIN=B071Z9Y29D&amp;linkCode=df2
+            </offer_page_url>
+            <offer_used_url>
+                http://www.amazon.com/gp/offer-listing/B071Z9Y29D/ref=asc_df_B071Z9Y29D5386849?ie=UTF8&amp;condition=used&amp;tag=INSERT_TAG_HERE&amp;creative=395213&amp;creativeASIN=B071Z9Y29D&amp;linkCode=df2
+            </offer_used_url>
+            <tp_refurbished_url/>
+            <tp_collect_url/>
+            <tp_fba_url/>
+            <item_image_url_small>
+                https://images-na.ssl-images-amazon.com/images/I/51UhMyex-xL._SL75_.jpg
+            </item_image_url_small>
+            <item_image_url>
+                https://images-na.ssl-images-amazon.com/images/I/51UhMyex-xL._SL160_.jpg
+            </item_image_url>
+            <item_image_url_large>
+                https://images-na.ssl-images-amazon.com/images/I/51UhMyex-xL.jpg
+            </item_image_url_large>
+            <item_image_url_hires>
+                https://images-na.ssl-images-amazon.com/images/I/71-CWmO-ypL.jpg
+            </item_image_url_hires>
+            <item_salesrank>2559</item_salesrank>
+            <list_price>127.97</list_price>
+            <item_category>Amazon Tablets</item_category>
+            <item_is_fba>true</item_is_fba>
+            <item_price>117.97</item_price>
+            <item_inventory>Usually ships in 24 hours</item_inventory>
+            <item_shipping_charge>2.98</item_shipping_charge>
+            <item_condition>New</item_condition>
+            <item_seller>Amazon.com</item_seller>
+            <item_merchant_id>ATVPDKIKX0DER</item_merchant_id>
+            <item_is_eligible_for_prime>0</item_is_eligible_for_prime>
+            <item_sales_restriction>Check Site.</item_sales_restriction>
+            <item_points/>
+            <item_min_hours>24</item_min_hours>
+            <item_max_hours>24</item_max_hours>
+            <amzn_is_fba>true</amzn_is_fba>
+            <amzn_price>117.97</amzn_price>
+            <amzn_inventory>Usually ships in 24 hours</amzn_inventory>
+            <amzn_shipping_charge>2.98</amzn_shipping_charge>
+            <amzn_condition>New</amzn_condition>
+            <amzn_seller>Amazon.com</amzn_seller>
+            <amzn_merchant_id>ATVPDKIKX0DER</amzn_merchant_id>
+            <amzn_is_eligible_for_prime>0</amzn_is_eligible_for_prime>
+            <amzn_sales_restriction>Check Site.</amzn_sales_restriction>
+            <amzn_points/>
+            <amzn_min_hours>24</amzn_min_hours>
+            <amzn_max_hours>24</amzn_max_hours>
+            <fm_is_fba>true</fm_is_fba>
+            <fm_price>117.97</fm_price>
+            <fm_inventory>Usually ships in 24 hours</fm_inventory>
+            <fm_shipping_charge>2.98</fm_shipping_charge>
+            <fm_condition>New</fm_condition>
+            <fm_seller>Amazon.com</fm_seller>
+            <fm_merchant_id>ATVPDKIKX0DER</fm_merchant_id>
+            <fm_is_eligible_for_prime>0</fm_is_eligible_for_prime>
+            <fm_sales_restriction>Check Site.</fm_sales_restriction>
+            <fm_points/>
+            <fm_min_hours>24</fm_min_hours>
+            <fm_max_hours>24</fm_max_hours>
+            <item_sku/>
+            <item_platform/>
+            <item_is_adult_product/>
+            <prototype_partner_product_id/>
+            <amzn_ppu/>
+            <tp_new_ppu/>
+            <tp_used_ppu/>
+            <tp_refurbished_ppu/>
+            <tp_collect_ppu/>
+            <item_energy_efficiency_class/>
+            <item_abstract>Buy Fire HD 8 Protection Bundle with Fire HD 8 Tablet
+                (16 GB, Black), Amazon Cover (Charcoal Black) and Protection
+                Plan (2-Year) from Amazon.com!
+            </item_abstract>
+            <weee_tax>0</weee_tax>
+            <cpc/>
+            <dcz/>
+            <wxjz/>
+            <xcyg/>
+        </item_basic_data>
+        <merch_cat_list>
+            <merch_cat_item>
+                <merch_cat_name>493964</merch_cat_name>
+                <merch_cat_path>Electronics/Categories</merch_cat_path>
+            </merch_cat_item>
+            <merch_cat_item>
+                <merch_cat_name>17142718011</merch_cat_name>
+                <merch_cat_path>Amazon Devices &amp;
+                    Accessories/Categories/Amazon Devices/Device Bundles/Fire
+                    Tablets Bundles
+                </merch_cat_path>
+            </merch_cat_item>
+        </merch_cat_list>
+        <item_brand>Amazon</item_brand>
+        <item_mpn_list/>
+        <item_upc_list/>
+        <item_features>Includes the latest Fire HD 8 Tablet with Special Offers,
+            16GB, Black ($79.99), Amazon Cover, Charcoal Black ($29.99), and
+            2-Year Protection Plan plus Accident Protection ($17.99),The next
+            generation of our best-reviewed Fire tablet, with up to 12 hours of
+            battery life, a vibrant 8" HD display, a 1.3 GHz quad-core
+            processor, 1.5 GB of RAM, and Dolby Audio. More durable than the
+            latest iPad.,16 or 32 GB of internal storage and a microSD slot for
+            up to 256 GB of expandable storage,Now with Alexa, for quick access
+            to the information and entertainment you want. Ask questions, play
+            music, check your calendar, get the news, weather, and more - just
+            press the home button and ask.,Enjoy millions of movies, TV shows,
+            songs, Kindle eBooks, apps and games - including Netflix, Facebook,
+            HBO, Spotify, and more,Prime members get unlimited access to over a
+            thousand books and magazines, millions of songs, and thousands of
+            movies and TV episodes - at no additional cost,Watch downloaded
+            videos anywhere with a Prime membership, Netflix plan, or Showtime
+            subscription,Enhance your entertainment experience with features you
+            only get from Amazon, including ASAP, X-Ray, On Deck, Blue Shade,
+            and FreeTime Parental Controls
+        </item_features>
+        <item_part_number/>
+        <item_package_quantity/>
+    </item_data>
+
+</DataFeeds>

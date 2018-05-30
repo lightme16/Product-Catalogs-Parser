@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  db:
+    image: mongo:latest
+
+  parser:
+    build: .
+    command: pytest -sv tests/
+    links:
+      - db
+    environment:
+      DB_HOST: db

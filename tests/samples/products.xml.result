@@ -1,0 +1,26 @@
+[
+  {
+    "id": "B01J90MOVY",
+    "title": "item_title1\n            ",
+    "url": "\n                http://www.amazon.com/dp/B01J90MOVY/ref=asc_df_B01J90MOVY5386849?tag=INSERT_TAG_HERE&creative=395261&creativeASIN=B01J90MOVY&linkCode=asn\n            ",
+    "image_url": "\n                https://images-na.ssl-images-amazon.com/images/I/41uPelrYllL._SL160_.jpg\n            ",
+    "buy_url": "\n                http://www.amazon.com/gp/offer-listing/B01J90MOVY/ref=asc_df_B01J90MOVY5386849?ie=UTF8&condition=new&tag=INSERT_TAG_HERE&creative=395165&creativeASIN=B01J90MOVY&linkCode=df2\n            ",
+    "retail_price": "99.99",
+    "sale_price": "99.99",
+    "brand": "Amazon.com",
+    "shipping": "0.00",
+    "availability": "Check Site."
+  },
+  {
+    "id": "B071Z9Y29D",
+    "title": "item_title2\n            ",
+    "url": "\n                http://www.amazon.com/dp/B071Z9Y29D/ref=asc_df_B071Z9Y29D5386849?tag=INSERT_TAG_HERE&creative=395261&creativeASIN=B071Z9Y29D&linkCode=asn\n            ",
+    "image_url": "\n                https://images-na.ssl-images-amazon.com/images/I/51UhMyex-xL._SL160_.jpg\n            ",
+    "buy_url": "\n                http://www.amazon.com/gp/offer-listing/B071Z9Y29D/ref=asc_df_B071Z9Y29D5386849?ie=UTF8&condition=new&tag=INSERT_TAG_HERE&creative=395165&creativeASIN=B071Z9Y29D&linkCode=df2\n            ",
+    "retail_price": "117.97",
+    "sale_price": "127.97",
+    "brand": "Amazon.com",
+    "shipping": "2.98",
+    "availability": "Check Site."
+  }
+]

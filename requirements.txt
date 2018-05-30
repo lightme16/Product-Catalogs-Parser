@@ -1,0 +1,5 @@
+pymongo
+pandas
+lxml
+pymongo
+pytest
